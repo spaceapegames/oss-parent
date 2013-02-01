@@ -13,7 +13,7 @@
 
 	<groupId>com.fasterxml</groupId>
 	<artifactId>oss-parent</artifactId>
-	<version>7-spaceape</version>
+	<version>8-spaceape-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>FasterXML.com parent pom</name>
